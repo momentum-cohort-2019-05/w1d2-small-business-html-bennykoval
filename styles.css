@@ -1,0 +1,147 @@
+body {
+    font-family: Sans-serif;
+}
+
+h1 {
+    font-size: 60px;
+    color: #000000;
+}
+
+.headerImg {
+    text-align: center;
+    height: 350px;
+    padding-top: 150px;
+    width: 100%;
+    background: url(starter_files/images/store-interior.jpg);
+    background-size: cover;
+}
+
+.box {
+    border: 1px solid #000000;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.7);
+}
+
+.headerTxt {
+    background: url("https://sitejerk.com/images/transparent-floral-border-3.png");
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    background-position: 380px -8px;
+    border-radius: 10%;
+    padding-bottom: 2rem;
+}
+
+.navlist {
+    list-style-type: none;
+    text-decoration: none;
+    background-color: #ffffff;
+    padding-bottom: 20px;
+}
+
+li {
+    float: left;
+    padding: 15px;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 145px;
+    margin-right: 145px;
+    margin-bottom: 25px;
+    border: 4px dotted #c8e8b4;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+a:link {
+    text-decoration: none;
+    color: #193502;
+}
+
+a:visited {
+    text-decoration: none;
+    color: #193502;
+}
+
+.introP {
+    padding-top: 10px;
+}
+
+.about {
+    padding-left: 30px;
+    font-size: 18px;
+}
+
+h2 {
+    text-align: center;
+}
+
+.flower {
+    padding-left: 30px;
+    padding-right: 20px;
+    float: left;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    position: relative;
+    overflow: hidden;
+}
+
+.flower-wide {
+    padding-left: 30px;
+    padding-right: 20px;
+    float: left;
+    height: 150px;
+    max-width: 150px;
+    border-radius: 50%;
+    position: relative;
+    overflow: hidden;
+}
+
+
+.description {
+    font-size: 22px;
+}
+
+.wild-hyacinth {
+    margin-bottom: 10%;
+}
+
+.lily-of-the-valley {
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+.crown-imperials {
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+.spring-starflower {
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+.tulips {
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+.stock {
+    background-color: #a9e5ac;
+    padding: 5px;
+}
+
+.hours {
+    padding-top: 60px;
+    padding-left: 30px;
+    font-size: 18px;
+}
+
+.about-us {
+    font-size: 38px;
+    position: relative;
+    top: 25px;
+}
